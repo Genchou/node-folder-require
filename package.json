@@ -5,8 +5,11 @@
   "main": "src/index.js",
   "author": "Genchou von Hengchen <genchou@gvonh.be>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "standard": "^11.0.1"
+  },
+  "scripts": {
+    "test": "node test/test.js"
   }
 }
