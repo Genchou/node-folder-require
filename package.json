@@ -1,0 +1,12 @@
+{
+  "name": "node-folder-require",
+  "version": "1.0.0",
+  "description": "Simple tool to require all files/modules within a folder (no recursion)",
+  "main": "src/index.js",
+  "author": "Genchou von Hengchen <genchou@gvonh.be>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
